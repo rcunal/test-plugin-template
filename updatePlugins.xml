@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin
+        id="com.trendyol.developertoolkit"
+        url="https://gitlab.trendyol.com/mobile/mobile-all/android-all/pdp/developer-toolkit-plugin/-/blob/main/Trendyol_Developer_Toolkit.jar"
+        version="0.0.1">
+        <idea-version since-build="231.*"/>
+        <change-notes>
+            Initial release of the plugin.
+        </change-notes>
+    </plugin>
+</plugins>
