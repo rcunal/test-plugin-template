@@ -2,7 +2,7 @@
 <plugins>
     <plugin
         id="com.trendyol.developertoolkit"
-        url="https://gitlab.trendyol.com/mobile/mobile-all/android-all/pdp/developer-toolkit-plugin/-/blob/main/Trendyol_Developer_Toolkit.jar"
+        url="https://gitlab.trendyol.com/api/v4/projects/mobile%2Fmobile-all%2Fandroid-all%2Fpdp%2Fdeveloper-toolkit-plugin/repository/files/Trendyol_Developer_Toolkit.jar/raw?ref=main&amp;private_token=byWJCqd7WJEys7g2Qo9E"
         version="0.0.1">
         <idea-version since-build="231.*"/>
         <change-notes>
